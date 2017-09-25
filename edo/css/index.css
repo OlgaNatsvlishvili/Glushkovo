@@ -1,0 +1,349 @@
+body {
+    background-color: #e1e1e1;
+}
+p {
+    font-size: 12px;
+}
+.container {
+    width: 1170px!important;
+}
+.header {
+    min-height: 549px;
+    background-image: url(../img/_o_n.png);
+    background-size: 1140px;
+    background-repeat: no-repeat;
+    border-bottom: 2px solid #a1836b;
+}
+.phone {
+    color: #fff;
+    padding-top: 20px;
+    text-align: right;
+}
+.menu {
+    text-align: center;
+    padding-top: 20px;
+}
+.menu a {
+    color: #000;
+    margin: 5px;
+}
+.top-left {
+    color: #fff;
+    margin-top: 150px;
+}
+.top-left h1 {
+    font-size: 75px;
+    font-weight: bolder;
+}
+.top-left-index {
+    background: rgba(0, 0, 0, 0.6);
+    margin-top: 311px;
+    margin-left: 0px;
+    padding: 20px;
+    max-width: 430px;
+}
+.top-left-index h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    margin: 0;
+}
+.top-left h4 {
+    font-size: 17px;
+}
+.top-left a {
+    color: #fff;
+    border-bottom: 2px solid #a38061;
+    font-size: 17px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-weight: bold;
+}
+.about-text {
+    padding-top: 30px;
+}
+.about-text h5 {
+    color: #a38061;
+}
+.about-text h2{
+    font-weight: bold;
+    font-size: 35px;
+}
+.about-text a {
+    color: #000;
+    border-top: 2px solid #a38061;
+    font-size: 17px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-weight: bold;
+}
+
+.plan h5 a {
+    color: #a38061;
+}
+
+.plan h5 {
+    text-align: center;
+    color: #a38061;
+    padding-top: 30px;
+}
+.plan p {
+    text-align: center;
+}
+.plan-flat h3 {
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+}
+.plan-flat .count {
+    text-align: center;
+}
+.plan-flat {
+    text-align: center;
+}
+.plan-flat img {
+    max-width: 250px;
+}
+.order {
+    margin-top: 80px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.view a {
+    color: #000;
+    border-top: 2px solid #a38061;
+    font-size: 17px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-weight: bold;
+}
+.infrastructure {
+    min-height: 591px;
+    background-image: url(../img/structure.png);
+    /*background-size: 1140px;*/
+    background-repeat: no-repeat;
+    border-top: 2px solid #a1836b;
+}
+
+.structure h5 a {
+    color: #a38061;
+}
+
+.structure h5 {
+    color: #a38061;
+    padding-top: 20px;
+}
+.structure h2 {
+    font-weight: bold;
+    font-size: 30px;
+    color: #fff;
+}
+.structure p {
+    color: #fff;
+}
+.row h3 spam {
+    padding-left: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.row h3 sup {
+    padding-left: 2px;
+}
+.infrastructure p {
+    color: #fff;
+}
+.infrastructure h3 {
+    color: #fff;
+    font-weight: bold;
+    font-size: 50px;
+    padding-top: 5px;
+}
+.our_region h5 {
+    color: #a38061;
+    padding-top: 20px;
+    padding-top: 60px;
+}
+.our_region h2 {
+    font-weight: bold;
+    color: #000;
+}
+.our_region p {
+    color: #000;
+}
+.our_region a {
+    color: #000;
+    border-top: 2px solid #a38061;
+    font-size: 17px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-weight: bold;
+}
+.payment h5 {
+    text-align: center;
+    color: #a38061;
+    padding-top: 30px;
+}
+.payment p {
+    text-align: center;
+    color:#000;
+    padding-top: 30px;
+}
+.title {
+    color: #a38061;
+    font-size: 16px;
+}
+.number {
+    font-size: 24px;
+    font-weight: bold;
+}
+.installment h3 {
+    font-weight: bold;
+    font-size: 50px;
+    padding-top: 30px;
+}
+.calculating a {
+    color: #000;
+    border-top: 2px solid #a38061;
+    font-size: 17px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-weight: bold;
+}
+.contact {
+    min-height: 520px;
+    background-image: url(../img/structure.png);
+    background-repeat: no-repeat;
+    border-top: 2px solid #a1836b;
+}
+.contact h2 {
+    font-weight: bold;
+    font-size: 35px;
+    color: #fff;
+    padding-top: 100px;
+}
+.contact a {
+    color: #fff;
+    border-top: 2px solid #a38061;
+    font-size: 17px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-weight: bold;
+}
+.contact input {
+    margin: 6px;
+    border: none;
+    background-color: #4a4a4f;
+    padding: 4px;
+    color: #77777b;
+    height: 20px;
+}
+.contact_a:hover {
+    text-decoration: none;
+}
+.map {
+    min-height: 580px;
+    background-image: url(../img/map.png);
+    background-repeat: no-repeat;
+    border-top: 2px solid #a1836b;
+}
+.map h5 {
+    padding-top: 120px;
+}
+.map a {
+    color: #000;
+    border-top: 2px solid #a38061;
+    font-size: 17px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-weight: bold;
+}
+.header_small {
+    min-height: 70px;
+    background-image: url(../img/header.jpg);
+    background-size: 1140px;
+    background-repeat: no-repeat;
+/*  border-bottom: 2px solid #a1836b;*/
+}
+.house {
+    border-bottom: 2px solid #a1836b;
+}
+.table{
+    margin-top: 35px;
+}
+.table td, .table th {
+    padding: 8px;
+}
+.plan_1 {
+    height: 110px;
+    background-image: url(../img/structure.png);
+/*    background-size: 1140px;*/
+    background-repeat: no-repeat;
+    border-top: 2px solid #a1836b;
+    margin-top: 40px;
+}
+.plan_1 h5 {
+    color: #a38061;
+    padding-top: 20px; 
+}
+
+.footer {
+    height: 110px;
+    background-image: url(../img/structure.png);
+    background-size: 1140px;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    border-bottom: 2px solid #a1836b;
+}
+
+.header {
+/*    margin-bottom: 100px;*/
+}
+
+.structure h2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.plan-2 {
+    margin-bottom: 100px;
+}
+
+.infrastructure {
+    margin-bottom: 100px;
+}
+.infra {
+    background: rgba(0, 0, 0, 0.6);
+    margin-top: 100px;
+    padding: 20px;
+}
+.fancybox-content {
+    max-width: 1000px;
+}
+
+.dropbtn {
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ebebeb;
+    min-width: 180px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+    text-decoration: underline;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown:hover .dropbtn {
+}
